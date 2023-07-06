@@ -1,0 +1,41 @@
+# Python
+cache/
+data.log
+local.settings.json
+.venv_elasticsearch/
+__pycache__
+.elasticsearch_venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+*.so
+*.swp
+*~
+.ipynb_checkpoints
+venv/
+*.venv
+.env
+.env_nlp
+.Python
+
+# Sphinx
+/docs/_build/
+/docs/_static/
+/docs/_templates/
+/docs/modules.rst
+/docs/modules/
+/docs/*.py
+/docs/*.pyc
+/docs/*.pyo
+/docs/*.pyd
+/docs/.doctrees
+/docs/.buildinfo
+
+# VSCode
+.vscode/
+*.code-workspace
